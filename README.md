@@ -1,6 +1,5 @@
 <a name="hello-rails-back-end"></a>
 
-[FRONT END APP](https://github.com/Sevenpros/hello-react-front-end)
 
 <div align="center">
 
@@ -33,7 +32,7 @@
 - [📝 License](#license)
 
 
-# 📖 [hello-rails-back-end] <a name="about-project"></a>
+# 📖 [hello-rails-back-end] [FRONT END APP](https://github.com/Sevenpros/hello-react-front-end) <a name="about-project"></a>
 
 **[hello-rails-back-end]** is a project that allows a user to view random greeting from database.
 
