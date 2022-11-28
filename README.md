@@ -88,20 +88,16 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-`gh repo clone Sevenpros/my_new_rails_app`
+`gh repo clone Sevenpros/hello-rails-back-end`
 
 - Then switch to the project folder by the bellow query:
 
-`cd my_new_rails_app`
+`cd hello-rails-back-end`
 
 
 ### Install
 
 Install this project with:
-
-- Switch to the project folder by the bellow query:
-
-`cd my_new_rails_app`
 
 -Install the required dependecies with:
 
